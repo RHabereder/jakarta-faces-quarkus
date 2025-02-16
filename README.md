@@ -7,7 +7,7 @@ This is a little demo-app that builds upon [jakarta-faces-demo](https://github.c
 - [Melloware Inc](https://github.com/melloware) for getting me started with [Quarkus Faces](https://github.com/melloware/quarkus-faces)
 - [Quarkus Team](https://quarkus.io) for saving me from Application Servers
 - [Jakarta EE Team](https://jakarta.ee/specifications/faces/) for maintaining Jakarta Faces
-- [PrimeFaces](https://primefaces.org) for the great component Library
+- [PrimeFaces](https://primefaces.org) for the greatest component Library I've ever used
 
 
 ## What you need
