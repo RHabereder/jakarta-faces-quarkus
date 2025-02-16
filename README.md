@@ -1,6 +1,6 @@
-# Jakarta Faces 4.0 in 2025
+# Jakarta Faces Quarkus
 
-This is a little demo-app to demonstrate Jakarta Faces 4.0 in 2025. 
+This is a little demo-app that builds upon [jakarta-faces-demo](https://github.com/RHabereder/jakarta-faces-demo) to stuff a Jakarta Faces 4.0 App into quarkus as a Runtime
 
 ## Credits
 
